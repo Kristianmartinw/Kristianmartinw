@@ -1,6 +1,6 @@
 ### Hi there, I'm a full stack developer currently refining my skils. 
 
-[![Kristianmartinw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kristianmartinw)](https://github.com/anuraghazra/github-readme-stats)
+[![Kristianmartinw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kristianmartinw)](https://github.com/anuraghazra&show_icons=true/github-readme-stats)
 <!--
 **Kristianmartinw/Kristianmartinw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
