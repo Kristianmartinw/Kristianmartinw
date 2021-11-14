@@ -1,4 +1,4 @@
-### Hi there, I'm currently working on an app that auto builds parties for a game and a variety of others. I love to apply what I learn and I'm always looking to learn new languages if they can help me build my apps. Currently learning typescript.
+### Hi there, I'm currently working on an app that auto builds parties for a game and a variety of others. I love to apply what I learn and I'm always looking to learn new languages if they can help me build my apps. Currently learning typescript and checking out Go.
 
 [![Kristianmartinw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kristianmartinw&show_icons=true&theme=dracula))]
 
